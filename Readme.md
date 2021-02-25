@@ -33,7 +33,7 @@
 
 ## Overview
 
-![screenshot](https:/https://giphy.com/gifs/6tYtPgsAyM4vBhlYLe/html5)
+![screenshot](https://media.giphy.com/media/6tYtPgsAyM4vBhlYLe/giphy.gif)
 
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
